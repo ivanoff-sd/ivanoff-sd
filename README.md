@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a data scientist from Saint-Petersburg, Russia.
+
+
+### qualified in
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, LightGBM, Keras, SQL, Git
+
+
+
+
 <!--
 **ivanoff-sd/ivanoff-sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
